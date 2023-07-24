@@ -1,5 +1,11 @@
 # Retail-Return-Prediction
+
+The objective of the problem is to analyze Fresco Retail's customers' transaction data and predict their return decisions based on various data points. The data points include customer background information, payment modes, store types, product nature, and other relevant factors.
+
+In the context of retail, product returns can have a significant impact on a company's bottom line and customer satisfaction. By understanding the factors that influence a customer's decision to return a product, Fresco Retail can take proactive measures to reduce returns, improve customer experience, and optimize their operations.
+
 ## Approach & Steps:
+
 1. Understanding the data variables: This step is important because it allows you to understand the meaning of each variable and how it might be related to the dependent variable. This understanding will help you to choose the right variables for your analysis and to interpret the results of your analysis.
 2. Cleaning the data: This step is important because it ensures that the data is accurate and consistent. Missing values, outliers, and incorrect data types can all lead to inaccurate results.
 3. Conducting EDA: This step allows you to summarize and explore the data. This includes looking at the distribution of the data, identifying outliers, and finding patterns in the data. EDA can help you to understand the data and to identify potential problems with the data.
