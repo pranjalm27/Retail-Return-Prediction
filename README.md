@@ -1,4 +1,4 @@
-# Retail-Return-Prediction
+# FRESCO Retail-Return-Prediction
 
 The objective of the problem is to analyze Fresco Retail's customers' transaction data and predict their return decisions based on various data points. The data points include customer background information, payment modes, store types, product nature, and other relevant factors.
 
